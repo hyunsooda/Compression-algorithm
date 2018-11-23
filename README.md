@@ -21,15 +21,15 @@ Compression algorithm based on Huffman-tree run length encoding and some optimza
 
 
 
-#드래그했을떄
+드래그했을떄
 <img width="819" alt="2018-11-24 3 05 20" src="https://user-images.githubusercontent.com/12508269/48956454-744aeb80-ef96-11e8-8ec2-b68e68d03165.png">
 
 
-#압축과정1
+압축과정1
 <img width="492" alt="2018-11-24 3 05 33" src="https://user-images.githubusercontent.com/12508269/48956474-86c52500-ef96-11e8-9d54-5f2b647c6244.png">
 
 
-#압축과정2
+압축과정2
 <img width="689" alt="2018-11-24 3 05 40" src="https://user-images.githubusercontent.com/12508269/48956490-9b092200-ef96-11e8-9f0f-c4fe70b5b30d.png">
 
 
@@ -37,7 +37,7 @@ Compression algorithm based on Huffman-tree run length encoding and some optimza
 <img width="810" alt="2018-11-24 3 05 46" src="https://user-images.githubusercontent.com/12508269/48956504-a52b2080-ef96-11e8-8e12-f18d079a9c32.png">
 
 
-입측된 파일 해제과정1
+입측된 파일 해제과정2
 <img width="683" alt="2018-11-24 3 05 50" src="https://user-images.githubusercontent.com/12508269/48956522-c4c24900-ef96-11e8-80a0-3490b8f5c806.png">
 
 
