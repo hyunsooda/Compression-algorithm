@@ -14,11 +14,24 @@ Compression algorithm based on Huffman-tree run length encoding and some optimza
 전체적인 구현화면
 <img width="809" alt="2018-11-24 3 05 10" src="https://user-images.githubusercontent.com/12508269/48956444-65fccf80-ef96-11e8-8100-d26c710d30bc.png">
 
+
+
 첫실행화면
 <img width="806" alt="2018-11-24 3 05 15" src="https://user-images.githubusercontent.com/12508269/48956450-714ffb00-ef96-11e8-8fc0-6d5d3dad1299.png">
 
+
+
 드래그했을떄
 <img width="819" alt="2018-11-24 3 05 20" src="https://user-images.githubusercontent.com/12508269/48956454-744aeb80-ef96-11e8-8ec2-b68e68d03165.png">
+
+
+압축과정1
+<img width="492" alt="2018-11-24 3 05 33" src="https://user-images.githubusercontent.com/12508269/48956474-86c52500-ef96-11e8-9d54-5f2b647c6244.png">
+
+
+압축과정2
+<img width="689" alt="2018-11-24 3 05 40" src="https://user-images.githubusercontent.com/12508269/48956490-9b092200-ef96-11e8-9f0f-c4fe70b5b30d.png">
+
 
 
 
